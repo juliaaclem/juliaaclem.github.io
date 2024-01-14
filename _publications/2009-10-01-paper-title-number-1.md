@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is from my undergraduate work at the University of Kansas.'
 date: 2019-5-06
 venue: 'The Condor'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://juliasunnarborg.github.io/files/Pub1.pdf'
 citation: ' '
 ---
 This paper is from my undergraduate work at the University of Kansas. 
