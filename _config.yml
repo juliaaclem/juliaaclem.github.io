@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julia Sunnarborg"
 title_separator          : "-"
 name                     : &name "Julia Sunnarborg"
-description              : &description "this is about me! Julia! Text text text."
+description              : &description "description."
 url                      : https://juliasunnarborg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juliasunnarborg/juliasunnarborg.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "About Me"
   avatar           : "IMG_6533.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "About me... text text text..."
+  location         : "Maine, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
