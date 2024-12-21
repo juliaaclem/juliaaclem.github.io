@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Maine, School of Marine Sciences"
-date: Fall 2024
+date: 
 location: "Orono, Country"
 ---
 
