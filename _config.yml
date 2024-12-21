@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Sunnarborg"
+title                    : "Julia Clem"
 title_separator          : "-"
-name                     : &name "Julia Sunnarborg"
+name                     : &name "Julia Clem"
 description              : &description "description."
-url                      : https://juliasunnarborg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://juliaclem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juliasunnarborg/juliasunnarborg.github.io"
+repository               : "juliasunnarborg/juliaclem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
