@@ -10,11 +10,4 @@ location: "Orono, Maine"
 
 In Fall 2020, I served as a teaching assistant for BIO336: Developmental Biology and BIO378: Medical Physiology Laboratory.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
