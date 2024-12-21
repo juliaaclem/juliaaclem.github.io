@@ -8,7 +8,7 @@ date: Fall 2024
 location: "Orono, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As the instructor for SMS308 in Fall 2024, I ...
 
 Heading 1
 ======
