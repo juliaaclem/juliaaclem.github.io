@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is the section where I will put information about me, Julia Sunnarborg.
+Hi! This is the section where I will put information about me, Julia Clem.
