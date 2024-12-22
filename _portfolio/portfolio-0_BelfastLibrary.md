@@ -7,4 +7,4 @@ Engaged school-aged kids at the Belfast Library in activities on Marine Mammal S
 
 ![](/images/Belfast1.jpeg)
 
-(http://juliaaclem.github.io/images/Belfast1.jpeg)
+![](/images/Belfast2.jpeg)
