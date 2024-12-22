@@ -5,8 +5,8 @@ excerpt: "About me"
 header:
   overlay_image: header1a.jpeg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
-  caption: "citation"
-  height: 500px
+  caption: "Winter Harbor, ME"
+  height: 700px
   width: 1200px
 author_profile: true
 redirect_from: 
@@ -14,4 +14,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is the section where I will put information about me, Julia Clem. I am a graduate student at the University of Maine, where I conduct research on coastal restoration and eDNA as part of the Maine-eDNA program. 
+Hi! This is the section where I will put information about me, Julia Clem. I am a graduate student at the University of Maine, where I conduct research on coastal restoration and eDNA as part of the [Maine-eDNA program](https://umaine.edu/edna/). 
