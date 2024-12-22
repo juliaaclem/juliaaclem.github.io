@@ -3,6 +3,6 @@ title: "Belfast Library"
 excerpt: ""
 collection: portfolio
 ---
-description
+Engaged school-aged kids at the Belfast Library in activities on Marine Mammal Science. Activities included dolphin photo-identification, diet characterization with pasta and play-doh, and mammal acoustics.
 
-insert photo
+(./images/Belfast1.jpeg)
