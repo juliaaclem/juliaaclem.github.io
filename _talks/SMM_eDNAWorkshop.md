@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop Presentation"
 permalink: /talks/SMM_eDNAWorkshop
 venue: "3rd Marine Mammal eDNA Workshop, SMM 2024"
-date: 2024-11-11
+date: 2024-11-09
 location: "Perth, Western Australia"
 ---
 
