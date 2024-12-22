@@ -1,6 +1,6 @@
 ---
 title: "Featured on Borealis: Watch rescued baby seals get released back into the Gulf of Maine"
-excerpt: "Online and TV broadcast."
+excerpt: ""
 collection: portfolio
 ---
 Interview by Aislinn Sarnacki, Maine Public. 
