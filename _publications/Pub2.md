@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/Pub2
 excerpt: 'Under Review at Marine Mammal Science'
 date: 2024-12-01
-venue: ''
 paperurl: 'http://juliaaclem.github.io/files/Pub2.pdf'
 ---
 Julia Clem, Christine Hudak, Lisa Sette, Geneva York, Sydney Jackson, Michael Kinnison, and Kristina Cammen
