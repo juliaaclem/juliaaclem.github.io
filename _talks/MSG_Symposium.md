@@ -12,4 +12,4 @@ This poster was presented at the 2024 Maine Sea Grant Research Symposium.
 
 Authors: Julia Clem*, Justin Stevens, Kristina Cammen, Michael Kinnison. 
 
-![](/images/Clem SeaGrant 2024 Poster.jpeg)
+![](/images/ClemSeaGrant2024Poster.jpeg)
