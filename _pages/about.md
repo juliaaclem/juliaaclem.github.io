@@ -3,7 +3,7 @@ permalink: /
 title: "Hi!"
 excerpt: "About me"
 header:
-  overlay_image: header1c.jpeg
+  overlay_image: header1c.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   caption: "Winter Harbor, ME"
   height: 700px
