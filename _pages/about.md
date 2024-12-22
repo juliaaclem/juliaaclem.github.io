@@ -4,7 +4,7 @@ title: "Julia Clem"
 excerpt: "Welcome to my professional website, where I detail my research, teaching, and outreach interests and activities. Thanks for stopping by!"
 header:
   overlay_image: header1a.jpeg
-  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  overlay_filter: 0.4 # same as adding an opacity of 0.2 to a black background
   caption: "Winter Harbor, ME"
   height: 500px
   width: 1200px
