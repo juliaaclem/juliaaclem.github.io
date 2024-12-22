@@ -2,7 +2,7 @@
 title: "Pairing environmental DNA with acoustic monitoring of anadromous fish in the Penobscot River, Maine"
 collection: talks
 type: "Poster Presentation"
-permalink: /talks/MSG_Symposium
+permalink: /talks/MSG_Symposium.md
 venue: "Maine Sea Grant Symposium"
 date: 2024-10-09
 location: "Orono, Maine"
