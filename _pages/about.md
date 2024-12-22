@@ -6,8 +6,8 @@ header:
   overlay_image: header1a.jpeg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   caption: "Winter Harbor, ME"
-  height: 1000px
-  width: 1200px
+  height: 50px
+  width: 120px
 author_profile: true
 redirect_from: 
   - /about/
