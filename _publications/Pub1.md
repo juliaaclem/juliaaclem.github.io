@@ -10,5 +10,5 @@ paperurl: 'http://juliaaclem.github.io/files/Pub1.pdf'
 This paper is from my undergraduate work at the University of Kansas. 
 
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://juliaaclem.github.io/files/Pub1.pdf)http://juliaaclem.github.io/files/Pub1.pdf)
+[Download paper here](http://juliaaclem.github.io/files/Pub1.pdf)
 
