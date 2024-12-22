@@ -1,5 +1,5 @@
 ---
-title: "Guest on Shellphone: A Breach the Surface Podcast"
+title: "Guests on Shellphone: A Breach the Surface Podcast"
 excerpt: "EP 10: Echoes of River Restoration with Julia and Justin"
 collection: portfolio
 ---
