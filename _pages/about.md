@@ -14,4 +14,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is the section where I will put information about me, Julia Clem.
+Hi! This is the section where I will put information about me, Julia Clem. I am a graduate student at the University of Maine, where I conduct research on coastal restoration and eDNA as part of the Maine-eDNA program. 
