@@ -4,7 +4,7 @@ collection: talks
 type: "Oral Presentation"
 permalink: /talks/SMM_OralPresentation
 venue: "Society for Marine Mammalogy Biennial Conference 2024"
-date: 2024-11-09
+date: 2024-11-11
 location: "Perth, Western Australia"
 ---
 
