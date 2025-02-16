@@ -11,5 +11,5 @@ Online and TV broadcast.
 
 October 10th, 2023. 
 
-Episode can be found on [x](https://www.mainepublic.org/2023-10-10/how-baby-seals-are-rescued-rehabilitated-and-released-back-into-the-gulf-of-maine)
+Episode can be found [here](https://www.mainepublic.org/2023-10-10/how-baby-seals-are-rescued-rehabilitated-and-released-back-into-the-gulf-of-maine)
 
