@@ -8,7 +8,7 @@ date: 2025-1-09
 location: "Augusta, Maine"
 ---
 
-This work was presented at the Gulf of Maine River Herring Network Research Symposium in January 2025. Recordings can be found [here!](https://youtu.be/vglFAO2kY9o?si=RmxD7R0nAgluZXcW)
+This work was presented at the Gulf of Maine River Herring Network Research Symposium in January 2025. Recording can be found [here!](https://youtu.be/vglFAO2kY9o?si=RmxD7R0nAgluZXcW)
 
 [PDF of Slides](http://juliaaclem.github.io/files/Clem_GoM_RHN.pdf)
 
