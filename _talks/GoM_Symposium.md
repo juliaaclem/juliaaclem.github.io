@@ -2,7 +2,7 @@
 title: "Pairing Environmental DNA with Acoustic Monitoring of River Herring and Other Anadromous Fish in the Penobscot River"
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/GoM_Symposium.md
+permalink: /talks/GoM_Symposium
 venue: "Gulf of Maine River Herring Network Research Symposium"
 date: 2025-1-09
 location: "Augusta, Maine"
