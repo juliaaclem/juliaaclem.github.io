@@ -9,4 +9,4 @@ location: "Orono, Maine"
 ---
 
 
-[Recording]([https://youtu.be/vglFAO2kY9o?si=RmxD7R0nAgluZXcW](https://drive.google.com/file/d/1b3N5X_KNkM88G-CHeV0nrxYwUdBk3JNz/view?usp=sharing))
+[Recording](https://drive.google.com/file/d/1b3N5X_KNkM88G-CHeV0nrxYwUdBk3JNz/view?usp=sharing)
